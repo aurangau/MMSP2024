@@ -33,3 +33,16 @@ a standard model trained on the $l_p$ norm as a loss
 ## References
 
 ## Code
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+    ></script>
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+/>
+
+    <img-comparison-slider>
+    <img slot="second" src="/home/udit/dev/meadowGlades/poster5_39_cr.png" />
+    <img slot="first" src="/home/udit/dev/meadowGlades/poster5_39_cr_rest.png" />
+    </img-comparison-slider>
