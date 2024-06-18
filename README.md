@@ -24,6 +24,10 @@ a standard model trained on the $l_p$ norm as a loss
 ## Results
 ## Synthetically Blurred Dataset
 
+### Average Blur Images
+
+### Blurry and Noisy Images
+
 ## Real-World Out-of-Focus Dataset
 
 ## References
