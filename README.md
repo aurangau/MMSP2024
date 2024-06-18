@@ -16,9 +16,10 @@ for assessing and benchmarking restoration models. Our method
 shows a 7.5% increase in the perceptual quality as compared to
 a standard model trained on the $l_p$ norm as a loss
 
+## Network Architecture
+![Network Architecture](Network_Architecture/UNet_MMSP.png)
 ## Dataset
 
-## Network Architecture
 
 ## Results
 ## Synthetically Blurred Dataset
