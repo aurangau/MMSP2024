@@ -18,6 +18,7 @@ a standard model trained on the $l_p$ norm as a loss
 
 ## Network Architecture
 ![Network Architecture](Network_Architecture/UNet_MMSP.png)
+| --- |
 | Network Architecture |
 ## Dataset
 
