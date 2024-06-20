@@ -20,8 +20,10 @@ a standard model trained on the $l_p$ norm as a loss
 ![Network Architecture](Network_Architecture/UNet_MMSP.png)
 | --- |
 | Network Architecture |
-## Dataset
 
+## Dataset
+Our dataset consists of 305 5K (5796 x 3870) images. Each image has three blurry counterparts labelled as low blur, medium blur and high blur.
+As the dataset is approximately 240 GB of raw images, interested parties are encouraged to contact the first author mentioned above. We are trying to host the dataset on Kaggle, as well as Google Drive. 
 
 ## Results
 ## Synthetically Blurred Dataset
