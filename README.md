@@ -39,8 +39,10 @@ Example crops of images from the dataset are given below:
 
 
 ## Results
+We test our proposed method on synthetically degraded (blurred) imagees and real-world out-of-focus images (proposed above)
 ## Synthetically Blurred Dataset
 
+### Effect of Weighting Coefficient $\beta$ on Sharpness
 ### Average Blur Images
 
 ### Blurry and Noisy Images
