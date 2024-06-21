@@ -28,17 +28,13 @@ Example crops of images from the dataset are given below:
 
 | ![Image 1](Dataset_Examples/soda2_original_crop.png) | ![Image 2](Dataset_Examples/soda2_lbC_crop.png) | ![Image 1](Dataset_Examples/soda2_mbC_crop.png)  | ![Image 2](Dataset_Examples/soda2_hbC_crop.png) |
 | --- | --- | --- | --- |
-| Original Image | Low Blur Image | Medium Blur | High Blur |
-
 
 | ![Image 1](Dataset_Examples/keyboard1_original_crop.png) | ![Image 2](Dataset_Examples/keyboard1_lbc_crop.png) | ![Image 1](Dataset_Examples/keyboard1_mbc_crop.png) | ![Image 2](Dataset_Examples/keyboard1_hbc_crop.png) |
 | --- | --- | --- | --- |
-| Original Image | Low Blur Image | Medium Blur Image | High Blur Image |
 
 | ![Image 1](Dataset_Examples/peppermintTea3_original_crop.png) | ![Image 1](Dataset_Examples/peppermintTea3_lbC_crop.png) | ![Image 1](Dataset_Examples/peppermintTea3_mbC_crop.png) | ![Image 1](Dataset_Examples/peppermintTea3_hbC_crop.png) |
 | --- | --- | --- | --- |
-
-
+| Original Image | Low Blur Image | Medium Blur Image | High Blur Image |
 
 
 
