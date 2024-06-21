@@ -40,8 +40,12 @@ Example crops of images from the dataset are given below:
 
 ## Results
 We test our proposed method on synthetically degraded (blurred) imagees and real-world out-of-focus images (proposed above)
-## Synthetically Blurred Dataset
+### Synthetically Blurred Dataset
+For synthetically blurred datasets, we use two degradation models -  
+* Blur of size 5 $\times$ 5 with 0 noise.
+* Blur of size 5 $\times$ 5 with 0.3 variance noise.
 
+We also investigate the effect of weighting coefficient $\beta$ on the sharpness of an image
 ### Effect of Weighting Coefficient $\beta$ on Sharpness
 ### Average Blur Images
 
@@ -49,6 +53,7 @@ We test our proposed method on synthetically degraded (blurred) imagees and real
 
 ## Real-World Out-of-Focus Dataset
 
-## References
-
 ## Code
+The Tensorflow Implementation of our model can be found in this repository.
+
+## References
