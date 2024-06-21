@@ -35,6 +35,11 @@ Example crops of images from the dataset are given below:
 | --- | --- | --- | --- |
 | Original Image | Low Blur Image | Medium Blur Image | High Blur Image |
 
+| ![Image 1](Dataset_Examples/peppermintTea3_original_crop.png) | ![Image 1](Dataset_Examples/peppermintTea3_lbC_crop.png) | ![Image 1](Dataset_Examples/peppermintTea3_mbC_crop.png) | ![Image 1](Dataset_Examples/peppermintTea3_hbC_crop.png) |
+| --- | --- | --- | --- |
+
+
+
 
 
 ## Results
