@@ -30,9 +30,6 @@ Example crops of images from the dataset are given below:
 | --- | --- | --- | --- |
 | Original Image | Low Blur Image | Medium Blur | High Blur |
 
-| ![Image 1](Dataset_Examples/soda2_mbC_crop.png) | ![Image 2](Dataset_Examples/soda2_hbC_crop.png) |
-| --- | --- |
-| Medium Blur Image | High Blur Image |
 
 | ![Image 1](Dataset_Examples/keyboard1_original_crop.png) | ![Image 2](Dataset_Examples/keyboard1_lbc_crop.png) |
 | --- | --- |
