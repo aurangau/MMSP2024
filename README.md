@@ -26,9 +26,9 @@ Our dataset consists of 305 5K (5796 x 3870) images. Each image has three blurry
 As the dataset is approximately 240 GB of raw images (.cr format), interested parties are encouraged to contact the first author mentioned above. We are in the process of hosting the dataset on a dedicated server.
 Example crops of images from the dataset are given below:
 
-| ![Image 1](Dataset_Examples/soda2_original_crop.png) | ![Image 2](Dataset_Examples/soda2_lbC_crop.png) | ![Image 1](Dataset_Examples/soda2_mbC_crop.png)  |
-| --- | --- | --- |
-| Original Image | Low Blur Image | Medium Blur |
+| ![Image 1](Dataset_Examples/soda2_original_crop.png) | ![Image 2](Dataset_Examples/soda2_lbC_crop.png) | ![Image 1](Dataset_Examples/soda2_mbC_crop.png)  | ![Image 2](Dataset_Examples/soda2_hbC_crop.png) |
+| --- | --- | --- | --- |
+| Original Image | Low Blur Image | Medium Blur | High Blur |
 
 | ![Image 1](Dataset_Examples/soda2_mbC_crop.png) | ![Image 2](Dataset_Examples/soda2_hbC_crop.png) |
 | --- | --- |
