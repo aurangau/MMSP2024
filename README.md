@@ -55,6 +55,19 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | 0.05 | 34.844 | 0.945 | 0.166 | 0.122
 | 0.1 | 33.641 | 0.940 | 0.183 | 0.127
 
+### Visual Comparison 
+| ![Image 1](Superimposed_Images/face_original_superimposed.png) | ![Image 2](Superimposed_Images/face_blurred_superimposed.png) | ![Image 3](Superimposed_Images/face_restormer_superimposed.png) |
+| --- | --- | --- |
+| Original Image | Blurry Image | Restormer [4] |
+
+| ![Image 4](Superimposed_Images/face_ifan_superimposed.png) | ![Image 5](Superimposed_Images/face_NBDNet_superimposed.png) | ![Image 6](Superimposed_Images/face_L_superimposed.png) |
+| --- | --- | --- |
+| IFAN [3] | NBDNet [5] | Landweber [6] |
+
+| ![Image 7](Superimposed_Images/face_NAL_superimposed.png) | ![Image 8](Superimposed_Images/face_PCL_superimposed.png) | ![Image 9](Superimposed_Images/face_RAID_superimposed.png) |
+| --- | --- | --- |
+| NA Landweber | PC Landweber | Ours |
+
 ### Average Blur Images
 
 ### Blurry and Noisy Images
