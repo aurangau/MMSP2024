@@ -83,10 +83,23 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 
 | ![Image 1](MMSP_Noisy_Blurry/kodim01.png)| ![Image 2](MMSP_Noisy_Blurry/kodim01_b.png) | ![Image 3](MMSP_Noisy_Blurry/kodim01_b_r.png) | ![Image 4](MMSP_Noisy_Blurry/kodim01_b_rQ.png) |
 | --- | --- | --- | --- |
+
 | ![Image 5](MMSP_Noisy_Blurry/kodim03.png)| ![Image 6](MMSP_Noisy_Blurry/kodim03_b.png) | ![Image 7](MMSP_Noisy_Blurry/kodim03_b_r.png) | ![Image 7](MMSP_Noisy_Blurry/kodim03_b_rQ.png) |
 | --- | --- | --- | --- |
-| ![Image 5](MMSP_Noisy_Blurry/kodim03.png)| ![Image 6](MMSP_Noisy_Blurry/kodim03_b.png) | ![Image 7](MMSP_Noisy_Blurry/kodim03_b_r.png) | ![Image 7](MMSP_Noisy_Blurry/kodim03_b_rQ.png) |
-| --- | --- | --- | --- | 
+
+| ![Image 8](MMSP_Noisy_Blurry/kodim04.png)| ![Image 9](MMSP_Noisy_Blurry/kodim04_b.png) | ![Image 10](MMSP_Noisy_Blurry/kodim04_b_r.png) | ![Image 11](MMSP_Noisy_Blurry/kodim04_b_rQ.png) |
+| --- | --- | --- | --- |
+
+| ![Image 12](MMSP_Noisy_Blurry/kodim08.png)| ![Image 13](MMSP_Noisy_Blurry/kodim08_b.png) | ![Image 14](MMSP_Noisy_Blurry/kodim08_b_r.png) | ![Image 15](MMSP_Noisy_Blurry/kodim08_b_rQ.png) |
+| --- | --- | --- | --- |
+
+| ![Image 16](MMSP_Noisy_Blurry/kodim18.png)| ![Image 17](MMSP_Noisy_Blurry/kodim18_b.png) | ![Image 18](MMSP_Noisy_Blurry/kodim18_b_r.png) | ![Image 19](MMSP_Noisy_Blurry/kodim18_b_rQ.png) |
+| --- | --- | --- | --- |
+
+| ![Image 20](MMSP_Noisy_Blurry/kodim21.png)| ![Image 21](MMSP_Noisy_Blurry/kodim21_b.png) | ![Image 22](MMSP_Noisy_Blurry/kodim21_b_r.png) | ![Image 23](MMSP_Noisy_Blurry/kodim21_b_rQ.png) |
+| --- | --- | --- | --- |
+| Original Image | Degraded Image | W/o. Fine-Tuning | W. Fine-Tuning | 
+
 
 ## Real-World Out-of-Focus Dataset
 
