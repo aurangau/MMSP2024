@@ -47,6 +47,14 @@ For synthetically blurred datasets, we use two degradation models -
 
 We also investigate the effect of weighting coefficient $\beta$ on the sharpness of an image
 ### Effect of Weighting Coefficient $\beta$ on Sharpness
+| $\beta$ | PSNR (dB) | SSIM | $Q$ | LPIPS
+| --- | --- | --- | --- | --- |
+| **0** | **35.069** | **0.944** | **0.153** | **0.127**
+| 0.001 | 35.102 | 0.945 | 0.152 | 0.117
+| 0.01 | 35.101 | 0.945 | 0.154 | 0.117 
+| 0.05 | 34.844 | 0.945 | 0.166 | 0.122
+| 0.1 | 33.641 | 0.940 | 0.183 | 0.127
+
 ### Average Blur Images
 
 ### Blurry and Noisy Images
