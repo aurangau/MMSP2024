@@ -55,7 +55,8 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | 0.05 | 34.844 | 0.945 | 0.166 | 0.122
 | 0.1 | 33.641 | 0.940 | 0.183 | 0.127
 
-### Visual Comparison 
+### Visual Comparison of Varying $\beta$
+
 | ![Image 1](Beta_Value_Comp/kodim01_blurry.png)| ![Image 2](Beta_Value_Comp/kodim01_b_r_onlyMAE.png) | ![Image 3](Beta_Value_Comp/kodim01_b_r_0_001.png) |
 | --- | --- | --- |
 | Blurry Image | $\beta$ = 0 | $\beta$ = 0.001 |
