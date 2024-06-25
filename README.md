@@ -76,7 +76,7 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 
 | ![Image 9](MMSP_Comparisons/kodim19_FP.png) | ![Image 10](MMSP_Comparisons/kodim19_b_Wiener.png) | ![Image 11](MMSP_Comparisons/kodim19_b_r_onlyMAE.png) | ![Image 12](MMSP_Comparisons/kodim19_b_r_QSharp.png) |
 | --- | --- | --- | --- |
-| mRL | Wiener Filter | Ours (w/o. FT) | Ours (w. FT) |
+| RED-FP | Wiener Filter | Ours (w/o. FT) | Ours (w. FT) |
 
 ### Blurry and Noisy Images
 
