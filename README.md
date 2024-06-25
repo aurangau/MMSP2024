@@ -82,7 +82,8 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 ### Blurry and Noisy Images
 
 | ![Image 1](MMSP_Noisy_Blurry/kodim01.png)| ![Image 2](MMSP_Noisy_Blurry/kodim01_b.png) | ![Image 3](MMSP_Noisy_Blurry/kodim01_b_r.png) | 
-| ![Image 4](MMSP_Noisy_Blurry/kodim01.png)| ![Image 5](MMSP_Noisy_Blurry/kodim01_b.png) | ![Image 6](MMSP_Noisy_Blurry/kodim01_b_r.png) |  
+| --- | --- | --- |
+| ![Image 4](MMSP_Noisy_Blurry/kodim03.png)| ![Image 5](MMSP_Noisy_Blurry/kodim03_b.png) | ![Image 6](MMSP_Noisy_Blurry/kodim03_b_r.png) |
 | --- | --- | --- |
 
 ## Real-World Out-of-Focus Dataset
