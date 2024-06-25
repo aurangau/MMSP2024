@@ -66,6 +66,7 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | $\beta$ = 0.01 | $\beta$ = 0.05 | $\beta$ = 0.1 |
 
 ### Average Blur Images
+
 | ![Image 1](MMSP_Comparisons/kodim19_original.png) | ![Image 2](MMSP_Comparisons/kodim19_blurry.png) | ![Image 3](MMSP_Comparisons/kodim19_b_ddnet.png) | ![Image 4](MMSP_Comparisons/kodim19_XYD.png) |
 | --- | --- | --- | --- |
 | Original Image | Blurry Image | DDNet [1] | XY-Deblur [2] |
@@ -79,6 +80,10 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | RED-FP | Wiener Filter | Ours (w/o. FT) | Ours (w. FT) |
 
 ### Blurry and Noisy Images
+
+| ![Image 1](MMSP_Noisy_Blurry/kodim01.png)| ![Image 2](MMSP_Noisy_Blurry/kodim01_b.png) | ![Image 3](MMSP_Noisy_Blurry/kodim01_b_r.png) | 
+| ![Image 4](MMSP_Noisy_Blurry/kodim01.png)| ![Image 5](MMSP_Noisy_Blurry/kodim01_b.png) | ![Image 6](MMSP_Noisy_Blurry/kodim01_b_r.png) |  
+| --- | --- | --- |
 
 ## Real-World Out-of-Focus Dataset
 
