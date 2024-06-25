@@ -57,7 +57,7 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 
 ### Visual Comparison of Varying $\beta$
 
-| ![Image 1](Beta_Value_Comp/kodim01_blurry.png)| ![Image 2](Beta_Value_Comp/kodim01_b_r_onlyMAE.png) | ![Image 3](Beta_Value_Comp/kodim01_b_r_0_001.png) |
+| ![Image 1](Beta_Value_Comp/kodim01_blurry.png)| ![Image 2](Beta_Value_Comp/kodim01_b_r_onlyMAE.png) | ![Image 3](Beta_Value_Comp/kodim01_b_r_0_001.png) | 
 | --- | --- | --- |
 | Blurry Image | $\beta$ = 0 | $\beta$ = 0.001 |
 
@@ -66,22 +66,17 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | $\beta$ = 0.01 | $\beta$ = 0.05 | $\beta$ = 0.1 |
 
 ### Average Blur Images
-| ![Image 1](MMSP_Comparisons/kodim19_original.png) | ![Image 2](MMSP_Comparisons/kodim19_blurry.png) | ![Image 3](MMSP_Comparisons/kodim19_b_ddnet.png) |
-| --- | --- | --- |
-| Original Image | Blurry Image | DDNet [1] |
+| ![Image 1](MMSP_Comparisons/kodim19_original.png) | ![Image 2](MMSP_Comparisons/kodim19_blurry.png) | ![Image 3](MMSP_Comparisons/kodim19_b_ddnet.png) | ![Image 4](MMSP_Comparisons/kodim19_XYD.png) |
+| --- | --- | --- | --- |
+| Original Image | Blurry Image | DDNet [1] | XY-Deblur [2] |
 
-| ![Image 4](MMSP_Comparisons/kodim19_XYD.png) | ![Image 5](MMSP_Comparisons/kodim19_al.png) | ![Image 6](MMSP_Comparisons/kodim19_mlm.png) |
-| --- | --- | --- |
-| XY-Deblur [2] | aL [3] | mLM |
+| ![Image 5](MMSP_Comparisons/kodim19_al.png) | ![Image 6](MMSP_Comparisons/kodim19_mlm.png) | ![Image 7](MMSP_Comparisons/kodim19_mrl.png) | ![Image 8](MMSP_Comparisons/kodim19_SDM.png) |
+| --- | --- | --- | --- |
+| aL [3] | mLM | mRL | RED-SDM [4] |
 
-| ![Image 7](MMSP_Comparisons/kodim19_mrl.png) | ![Image 8](MMSP_Comparisons/kodim19_SDM.png) | ![Image 9](MMSP_Comparisons/kodim19_FP.png) |
-| --- | --- | --- |
-| mRL | RED-SDM [4] | RED-FP |
-
-
-| ![Image 10](MMSP_Comparisons/kodim19_b_Wiener.png) | ![Image 11](MMSP_Comparisons/kodim19_b_r_onlyMAE.png) | ![Image 12](MMSP_Comparisons/kodim19_b_r_QSharp.png) |
-| --- | --- | --- |
-| Wiener Filter | Ours (w/o. FT) | Ours (w. FT) |
+| ![Image 9](MMSP_Comparisons/kodim19_FP.png) | ![Image 10](MMSP_Comparisons/kodim19_b_Wiener.png) | ![Image 11](MMSP_Comparisons/kodim19_b_r_onlyMAE.png) | ![Image 12](MMSP_Comparisons/kodim19_b_r_QSharp.png) |
+| --- | --- | --- | --- |
+| mRL | Wiener Filter | Ours (w/o. FT) | Ours (w. FT) |
 
 ### Blurry and Noisy Images
 
