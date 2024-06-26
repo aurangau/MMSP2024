@@ -81,7 +81,7 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 
 ### Tabular Comparison
 | Algorithm | PSNR (dB) | SSIM | Q | LPIPS | Time (s)
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | DDNet | 29.559 | 0.842 | 0.130 | 0.271 | 0.019 | 
 | XY-Deblur | 38.288 | 0.970 | 0.147 | 0.071 | 0.019 |
 | aL | 29.362 | 0.882 | 0.136 | 0.229 | 0.009 |  
