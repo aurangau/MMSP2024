@@ -8,13 +8,13 @@ The success of modern Deep Neural Network (DNN)
 approaches can be attributed to the use of complex optimization
 criteria beyond standard losses such as mean absolute error
 (MAE) or mean squared error (MSE). In this work, we propose
-a novel method of utilising a no-reference sharpness metric Q
+a novel method of utilising a no-reference sharpness metric $Q$
 introduced by Zhu and Milanfar for removing out-of-focus blur
 from images. We also introduce a novel dataset of real–world out-
 of-focus images for assessing restoration models. Our fine-tuned
 method produces images with a 7.5% increase in perceptual
 quality (LPIPS) as compared to a standard model trained only on
-MAE. Furthermore, we observe a 6.7% increase in Q (reflecting
+MAE. Furthermore, we observe a 6.7% increase in $Q$ (reflecting
 sharper restorations) and 7.25% increase in PSNR over most
 state-of-the-art (SOTA) methods
 
