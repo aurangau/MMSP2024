@@ -127,7 +127,7 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 
 ### Comparison with other methods
 
-| ![Image 1](RealWorldComparisons/cartridge_9_cr_original.png)| ![Image 2](RealWorldComparisons/cartridge_9_cr_blurry.png) | ![Image 3](RealWorldComparisons/cartridge_9_cr_restormer.png) | 
+| ![Image 1](RealWorldComparisons/cartridge_9_cr_original.png) | ![Image 2](RealWorldComparisons/cartridge_9_cr_blurry.png) | ![Image 3](RealWorldComparisons/cartridge_9_cr_restormer.png) | 
 | --- | --- | --- |
 | Original Image | Blurry Image | Restormer [6] |
 
