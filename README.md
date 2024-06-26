@@ -79,6 +79,19 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | --- | --- | --- | --- |
 | RED-FP | Wiener Filter | Ours (w/o. FT) | Ours (w. FT) |
 
+### Tabular Comparison
+| Algorithm | PSNR (dB) | SSIM | Q | LPIPS | Time (s)
+| --- | --- | --- | --- | --- |
+| DDNet | 29.559 | 0.842 | 0.130 | 0.271 | 0.019 | 
+| XY-Deblur | 38.288 | 0.970 | 0.147 | 0.071 | 0.019 |
+| aL | 29.362 | 0.882 | 0.136 | 0.229 | 0.009 |  
+| mLM | 37.282 | 0.971 | 0.135 | 0.059 | 0.003 | 
+| mRL | 29.658 | 0.891 | 0.134 | 0.212 | 0.012 | 
+| RED-FP | 33.137 | 0.911 | 0.154 | 0.181 | 47.800 |  
+| **Ours (w/o. FT)**| **34.875** | **0.946** | **0.149** | **0.116** | **0.052** | 
+| **Ours (w. FT)**| **34.890** | **0.947** | **0.150** | **0.107** | **0.063** | 
+
+
 ### Blurry and Noisy Images
 
 | ![Image 1](MMSP_Noisy_Blurry/kodim01.png)| ![Image 2](MMSP_Noisy_Blurry/kodim01_b.png) | ![Image 3](MMSP_Noisy_Blurry/kodim01_b_r.png) | ![Image 4](MMSP_Noisy_Blurry/kodim01_b_rQ.png) |
