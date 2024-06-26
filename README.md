@@ -129,11 +129,11 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 
 | ![Image 1](RealWorldComparisons/cartridge_9_cr_original.png) | ![Image 2](RealWorldComparisons/cartridge_9_cr_blurry.png) | ![Image 3](RealWorldComparisons/cartridge_9_cr_restormer.png) | 
 | --- | --- | --- |
-| Original Image | Blurry Image | Restormer [6] |
+| Original Image | Blurry Image | Restormer [5] |
 
 | ![Image 4](RealWorldComparisons/cartridge_9_cr_ifan.png) | ![Image 5](RealWorldComparisons/cartridge_9_cr_XYD.png) | ![Image 6](RealWorldComparisons/cartridge_9_cr_QFT.png) |
 | --- | --- | --- |
-| IFAN [7] | XY-Deblur | Ours (W. Fine-Tuning) |
+| IFAN [6] | XY-Deblur | Ours (W. Fine-Tuning) |
 
 ### Tabular Comparison
 | Algorithm | PSNR (dB) | SSIM | Q | LPIPS | Time (s)
@@ -148,3 +148,10 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 The Tensorflow Implementation of our model can be found in this add link in this [repository](https://github.com/aurangau/QSharpNet).
 
 ## References
+[1] Santiago López-Tapia, Javier Mateos, Rafael Molina, and Aggelos Katsaggelos, “Deep robust image restoration using the moore-penrose blur inverse,” in 2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023, pp. 775–779.
+[2] Seo-Won Ji, Jeongmin Lee, Seung-Wook Kim, Jun-Pyo Hong, Seung-Jin Baek, Seung-Won Jung, and Sung-Jea Ko, “Xydeblur: Divide and conquer for single image deblurring,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2022, pp. 17421–17430.
+[3] Alexander G Belyaev and Pierre-Alain Fayolle, “Black-box image deblurring and defiltering,” Signal Processing: Image Communication, vol. 108, pp. 116833, 2022.
+[4] Yaniv Romano, Michael Elad, and Peyman Milanfar, “The little engine that could: Regularization by denoising (red),” SIAM Journal on Imaging Sciences, vol. 10, no. 4, pp. 1804–1844, 2017.
+[5] Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, and Ming-Hsuan Yang, “Restormer: Efficient transformer for high-resolution image restoration,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2022, pp. 5728–5739.
+[6] Junyong Lee, Hyeongseok Son, Jaesung Rim, Sunghyun Cho, and Seungyong Lee, “Iterative filter adaptive network for single image defocus deblurring,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021, pp. 2034–2042.
+
