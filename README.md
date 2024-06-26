@@ -121,9 +121,6 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | --- | --- | --- | --- |
 | Original Image | Blurry Image | W/o. Fine-Tuning | W. Fine-Tuning |
 
-
-
-
 ## Code
 The Tensorflow Implementation of our model can be found in this add link in this [repository](https://github.com/aurangau/QSharpNet).
 
