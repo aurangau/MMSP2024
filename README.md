@@ -117,6 +117,10 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 ## Real-World Out-of-Focus Dataset
 
 ### Fine-Tuning Comparison
+| ![Image 1](RealBlur_Example/cartridge_original.png)| ![Image 2](RealBlur_Example/cartridge_blurry.png) | ![Image 3](RealBlur_Example/cartridge_no_FT.png) | ![Image 4](RealBlur_Example/cartridge_FT.png) |
+| --- | --- | --- | --- |
+| Original Image | Blurry Image | W/o. Fine-Tuning | W. Fine-Tuning |
+
 
 
 
