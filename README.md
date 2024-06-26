@@ -135,6 +135,14 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 | --- | --- | --- |
 | IFAN [7] | XY-Deblur | Ours (W. Fine-Tuning) |
 
+### Tabular Comparison
+| Algorithm | PSNR (dB) | SSIM | Q | LPIPS | Time (s)
+| --- | --- | --- | --- | --- | --- |
+| XY-Deblur | 28.131 | 0.784 | 0.082 | 0.668 | 0.012 |
+| IFAN | 23.728 | 0.668 | 0.0.44 | 0.408 | 0.022 |  
+| Restormer | 22.594 | 0.650 | 0.042 | 0.418 | 0.066 | 
+| **Ours (w/o. FT)**| **28.788** | **0.792** | **0.079** | **0.450** | **0.040** | 
+| **Ours (w. FT)**| **28.728** | **0.792** | **0.084** | **0.447** | **0.038** | 
 
 ## Code
 The Tensorflow Implementation of our model can be found in this add link in this [repository](https://github.com/aurangau/QSharpNet).
