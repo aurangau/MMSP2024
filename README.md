@@ -117,12 +117,24 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 ## Real-World Out-of-Focus Dataset
 
 ### Fine-Tuning Comparison
+
 | ![Image 1](RealBlur_Example/cartridge_original.png)| ![Image 2](RealBlur_Example/cartridge_blurry.png) | ![Image 3](RealBlur_Example/cartridge_no_FT.png) | ![Image 4](RealBlur_Example/cartridge_FT.png) |
 | --- | --- | --- | --- |
 
 | ![Image 1](RealBlur_Example/poster5_original.png)| ![Image 2](RealBlur_Example/poster5_blurry.png) | ![Image 3](RealBlur_Example/poster5_44_no_FT.png) | ![Image 4](RealBlur_Example/poster5_44_FT.png) |
 | --- | --- | --- | --- |
 | Original Image | Blurry Image | W/o. Fine-Tuning | W. Fine-Tuning |
+
+### Comparison with other methods
+
+| ![Image 1](RealWorldComparisons/cartridge_9_cr_original.png)| ![Image 2](RealWorldComparisons/cartridge_9_cr_blurry.png) | ![Image 3](RealWorldComparisons/cartridge_9_cr_restormer.png) | 
+| --- | --- | --- |
+| Original Image | Blurry Image | Restormer [6] |
+
+| ![Image 4](RealWorldComparisons/cartridge_9_cr_ifan.png) | ![Image 5](RealWorldComparisons/cartridge_9_cr_XYD.png) | ![Image 6](RealWorldComparisons/cartridge_9_cr_QFT.png) |
+| --- | --- | --- |
+| IFAN [7] | XY-Deblur | Ours (W. Fine-Tuning) |
+
 
 ## Code
 The Tensorflow Implementation of our model can be found in this add link in this [repository](https://github.com/aurangau/QSharpNet).
