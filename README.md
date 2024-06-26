@@ -121,6 +121,6 @@ We also investigate the effect of weighting coefficient $\beta$ on the sharpness
 
 
 ## Code
-The Tensorflow Implementation of our model can be found in this add link in this [repository)](https://github.com/aurangau/QSharpNet).
+The Tensorflow Implementation of our model can be found in this add link in this [repository](https://github.com/aurangau/QSharpNet).
 
 ## References
